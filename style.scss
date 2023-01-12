@@ -1,0 +1,11 @@
+// Include any default variable overrides here (though functions won't be available)
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+$themeColor1: green;
+h1 {
+  color: $themeColor1;
+}
+p {
+  color: $themeColor1;
+}
